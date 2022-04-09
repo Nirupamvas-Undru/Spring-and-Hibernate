@@ -1,0 +1,4 @@
+com.nirupam.springdemo.mvc.HelloWorldController=org.springframework.stereotype.Component
+com.nirupam.springdemo.mvc.HomeController=org.springframework.stereotype.Component
+com.nirupam.springdemo.mvc.SillyController=org.springframework.stereotype.Component
+com.nirupam.springdemo.mvc.StudentController=org.springframework.stereotype.Component
